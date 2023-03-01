@@ -5,9 +5,11 @@ Cyberseguridad: Llenguatge de Marques
 Aquí irán los apuntes de **XML**
 
 XML es un formato de texto mediante **etiquetas**
+>
 Usos de XML:
 
 Almacenamiento de datos entre plataformas
+>
 Se transforma al formato deseado: **HTML, XHTML, etc**
 
 Ejemplo XML: 
