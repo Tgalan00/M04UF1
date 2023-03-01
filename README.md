@@ -34,8 +34,11 @@ xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	\</character\>
 >
 >**Etiquetas:** Parte principal que analiza el doc XML. Dos etiquetas, de apertura y de cierre.
->Cada Etiqueta debe tener su cierre, se pueden crear etiquetas **EMPTY**
+>
+>Cada Etiqueta debe tener su cierre, se pueden crear etiquetas EMPTY
+>
 >**CDATA:** trata el texto como puro
+>
 >**Schemas:**
 
 
