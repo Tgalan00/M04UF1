@@ -4,6 +4,41 @@ Cyberseguridad: Llenguatge de Marques
 ## XML
 Aquí irán los apuntes de **XML**
 
+XML es un formato de texto mediante **etiquetas**
+Usos de XML:
+
+Almacenamiento de datos entre plataformas
+Se transforma al formato deseado: **HTML, XHTML, etc**
+
+Ejemplo XML: 
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!DOCTYPE character SYSTEM "character.dtd">
+<characters>
+	<character id_character="1">
+		<name>Eustaquio</name>
+		<surname>Mendoza</surname>
+		<race>Enano</race>
+		<class>Artificiero</class>
+		<gender abbrev="N">Non-Binary</gender>
+		<height cm="130" />
+		<weight kg="80" />
+		<language abbrev="prt">Portugués</language>
+		<TieneLaESO />
+		<weapons>
+			<weapon id_weapon="1" />
+			<weapon id_weapon="3" />
+			<weapon id_weapon="7" />
+			<weapon id_weapon="2" />
+	</character>
+	
+**Etiquetas:** Parte principal que analiza el doc XML. Dos etiquetas, de apertura y de cierre.
+Cada Etiqueta debe tener su cierre, se pueden crear etiquetas **EMPTY**
+**CDATA:** trata el texto como puro
+**Schemas:**
+
+
 ## DTD 
 Los _apuntes_ de DTD
 
@@ -53,3 +88,7 @@ Y [ESTO](https://enti.cat) es otro enlace
 | 1 | Eustaquio | 197 | 99 |
 | 2 | Mariana | 20 | 100 |
 | 3 | Messi | 44 | 32 |
+
+\* ejemplo de escapado
+
+\*que en otras cosas\*
