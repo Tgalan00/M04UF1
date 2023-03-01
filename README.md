@@ -25,3 +25,9 @@ Y [ESTO](https://enti.cat) es otro enlace
 ### Imagen incrustada
 
 ![Lenteja](https://recetinas.com/wp-content/uploads/2020/01/lentejas-con-chorizo.jpg)
+
+### Listas de tareas
+
+- [ ] Primera tarea
+- [x] Segunda tarea
+- [ ] Tercera tarea
