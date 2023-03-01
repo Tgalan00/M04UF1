@@ -6,4 +6,3 @@ Aquí irán los apuntes de XML
 
 ## DTD 
 Los apuntes de DTD
-##### si
