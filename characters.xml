@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!DOCTYPE character SYSTEM "character.dtd">
 <characters>
 	<character id_character="1">
 		<name>Eustaquio</name>
@@ -10,6 +11,12 @@
 		<height cm="130" />
 		<weight kg="80" />
 		<language abbrev="prt">Portugués</language>
+		<TieneLaESO />
+		<weapons>
+			<weapon id_weapon="1" />
+			<weapon id_weapon="3" />
+			<weapon id_weapon="7" />
+			<weapon id_weapon="2" />
 	</character>
 
 	<character id_character="2">
@@ -21,5 +28,6 @@
 		<height cm="25" />
 		<weight kg="3.4" />
 		<language abbrev="rou">Rumano</language>
+		<TieneLaESO />
 	</character>
 </characters>
