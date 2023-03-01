@@ -113,4 +113,4 @@ Y [ESTO](https://enti.cat) es otro enlace
 
 \* ejemplo de escapado
 
-\*que en otras cosas\*
+\*toni wapo\*
