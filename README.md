@@ -45,3 +45,11 @@ Y [ESTO](https://enti.cat) es otro enlace
 ~~TACHADO~~
 
 ~~***tachado negrita y cursiva***~~
+
+### Tablas
+
+| id_character | name | age | level |
+| --- | --- | --- | --- |
+| 1 | Eustaquio | 197 | 99 |
+| 2 | Mariana | 20 | 100 |
+| 3 | Messi | 44 | 32 |
