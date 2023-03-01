@@ -32,11 +32,12 @@ Ejemplo XML:
 			<weapon id_weapon="7" />
 			<weapon id_weapon="2" />
 	</character>
-	
-**Etiquetas:** Parte principal que analiza el doc XML. Dos etiquetas, de apertura y de cierre.
-Cada Etiqueta debe tener su cierre, se pueden crear etiquetas **EMPTY**
-**CDATA:** trata el texto como puro
-**Schemas:**
+>
+>	
+>**Etiquetas:** Parte principal que analiza el doc XML. Dos etiquetas, de apertura y de cierre.
+>Cada Etiqueta debe tener su cierre, se pueden crear etiquetas **EMPTY**
+>**CDATA:** trata el texto como puro
+>**Schemas:**
 
 
 ## DTD 
