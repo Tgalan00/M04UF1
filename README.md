@@ -12,14 +12,14 @@ Se transforma al formato deseado: **HTML, XHTML, etc**
 
 Ejemplo XML: 
 
-<?xml version="1.0" encoding="UTF-8" ?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!DOCTYPE character SYSTEM "character.dtd">
-<characters>
-	<character id_character="1">
-		<name>Eustaquio</name>
-		<surname>Mendoza</surname>
-		<race>Enano</race>
+?xml version="1.0" encoding="UTF-8" ?>
+xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+!DOCTYPE character SYSTEM "character.dtd">
+\<characters\>
+	\<character id_character="1"\>
+		\<name\>Eustaquio\</name\>
+		\<surname\>Mendoza\</surname\>
+		\<race\>Enano\</race\>
 		<class>Artificiero</class>
 		<gender abbrev="N">Non-Binary</gender>
 		<height cm="130" />
