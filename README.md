@@ -66,21 +66,7 @@ Los _apuntes_ de DTD
 
 > Ejemplo DTD
 
-> <!ELEMENT name (#PCDATA)>
-<!ELEMENT weight EMPTY>
-<!ELEMENT rarity (#PCDATA)>
-<!ELEMENT cost (#PCDATA)>
-<!ELEMENT consumable (#PCDATA)>
-<!ELEMENT durability (#PCDATA)>
-<!ELEMENT uses (#PCDATA)>
-<!ELEMENT level_min (#PCDATA)>
-<!ELEMENT hp (#PCDATA)>
-<!ELEMENT mp (#PCDATA)>
-<!ELEMENT key (#PCDATA)>
-<!ELEMENT class (#PCDATA)>
-<!ELEMENT description (#PCDATA)>
 
-<!ATTLIST weight kg CDATA>
 
 
 > La vida es una lenteja
