@@ -15,22 +15,39 @@ Ejemplo XML:
 ?xml version="1.0" encoding="UTF-8" ?>
 xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 !DOCTYPE character SYSTEM "character.dtd">
-\<characters\>
+>
+\<characters\> 
+>
 	\<character id_character="1"\>
+	>
 		\<name\>Eustaquio\</name\>
+		>
 		\<surname\>Mendoza\</surname\>
+		>
 		\<race\>Enano\</race\>
+		>
 		\<class\>Artificiero\</class\>
+		>
 		\<gender abbrev="N"\>Non-Binary\</gender\>
+		>
 		\<height cm="130" /\>
+		>
 		\<weight kg="80" /\>
+		>
 		\<language abbrev="prt"\>Portugués\</language\>
+		>
 		\<TieneLaESO /\>
+		>
 		\<weapons\>
+		>
 			\<weapon id_weapon="1" /\>
+			>
 			\<weapon id_weapon="3" /\>
+			>
 			\<weapon id_weapon="7" /\>
+			>
 			\<weapon id_weapon="2" /\>
+			>
 	\</character\>
 >
 >**Etiquetas:** Parte principal que analiza el doc XML. Dos etiquetas, de apertura y de cierre.
