@@ -28,27 +28,27 @@ xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 		
 		<class>Artificiero</class>
 		
-		\<gender abbrev="N"\>Non-Binary\</gender\>
-		>
-		\<height cm="130" /\>
-		>
-		\<weight kg="80" /\>
-		>
-		\<language abbrev="prt"\>Portugués\</language\>
-		>
-		\<TieneLaESO /\>
-		>
-		\<weapons\>
-		>
-			\<weapon id_weapon="1" /\>
-			>
-			\<weapon id_weapon="3" /\>
-			>
-			\<weapon id_weapon="7" /\>
-			>
-			\<weapon id_weapon="2" /\>
-			>
-	\</character\>
+		<gender abbrev="N">Non-Binary</gender>
+		
+		<height cm="130" />
+		
+		<weight kg="80" />
+		
+		<language abbrev="prt">Portugués</language>
+		
+		<TieneLaESO />
+		
+		<weapons>
+		
+			<weapon id_weapon="1" />
+			
+			<weapon id_weapon="3" />
+			
+			<weapon id_weapon="7" />
+			
+			<weapon id_weapon="2" />
+			
+	</character>
 >
 >**Etiquetas:** Parte principal que analiza el doc XML. Dos etiquetas, de apertura y de cierre.
 >
