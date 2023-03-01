@@ -18,6 +18,10 @@ Los _apuntes_ de DTD
 
 Esto es un enlace a la mejor web del mundo:
 
-[ConforChem](https://condorchem.com)
+[CondorChem](https://condorchem.com)
 
 Y [ESTO](https://enti.cat) es otro enlace
+
+### Imagen incrustada
+
+![Lenteja](https://recetinas.com/wp-content/uploads/2020/01/lentejas-con-chorizo.jpg)
