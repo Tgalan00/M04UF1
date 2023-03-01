@@ -11,4 +11,4 @@ Los _apuntes_ de DTD
 > La vida es una lenteja
 > O la toma o la deja
 >
-> Guacamole 2024-2001
+>> Guacamole 2024-2001
