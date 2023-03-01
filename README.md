@@ -31,3 +31,17 @@ Y [ESTO](https://enti.cat) es otro enlace
 - [ ] Primera tarea
 - [x] Segunda tarea
 - [ ] Tercera tarea
+
+### Carácteres  extendidos
+
+:poop: :alien: :cry: :imp:
+
+### Estilo de carácteres
+
+**cursiva* _cursiva_
+
+**negrita** __negrita__
+
+~~TACHADO~~
+
+~~***tachado negrita y cursiva***~~
