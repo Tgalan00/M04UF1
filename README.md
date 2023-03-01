@@ -18,11 +18,11 @@ xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 >
 \<characters\> 
 >
-	\<character id_character="1"\>
+	<character id_character="1">
 	>
-		\<name\>Eustaquio\</name\>
+		<name\>Eustaquio\</name>
 		>
-		\<surname\>Mendoza\</surname\>
+		<surname>Mendoza</surname>
 		>
 		\<race\>Enano\</race\>
 		>
