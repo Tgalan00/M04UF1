@@ -5,4 +5,4 @@ Cyberseguridad: Llenguatge de Marques
 Aquí irán los apuntes de XML
 
 ## DTD 
-Los apuntes de DTD
+Los _apuntes_ de DTD
