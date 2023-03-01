@@ -64,6 +64,24 @@ xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 ## DTD 
 Los _apuntes_ de DTD
 
+> Ejemplo DTD
+
+> <!ELEMENT name (#PCDATA)>
+<!ELEMENT weight EMPTY>
+<!ELEMENT rarity (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>
+<!ELEMENT consumable (#PCDATA)>
+<!ELEMENT durability (#PCDATA)>
+<!ELEMENT uses (#PCDATA)>
+<!ELEMENT level_min (#PCDATA)>
+<!ELEMENT hp (#PCDATA)>
+<!ELEMENT mp (#PCDATA)>
+<!ELEMENT key (#PCDATA)>
+<!ELEMENT class (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+
+<!ATTLIST weight kg CDATA>
+
 
 > La vida es una lenteja
 > O la toma o la deja
