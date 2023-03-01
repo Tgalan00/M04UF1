@@ -20,20 +20,19 @@ xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 		\<name\>Eustaquio\</name\>
 		\<surname\>Mendoza\</surname\>
 		\<race\>Enano\</race\>
-		<class>Artificiero</class>
-		<gender abbrev="N">Non-Binary</gender>
-		<height cm="130" />
-		<weight kg="80" />
-		<language abbrev="prt">Portugués</language>
-		<TieneLaESO />
-		<weapons>
-			<weapon id_weapon="1" />
-			<weapon id_weapon="3" />
-			<weapon id_weapon="7" />
-			<weapon id_weapon="2" />
-	</character>
+		\<class\>Artificiero\</class\>
+		\<gender abbrev="N"\>Non-Binary\</gender\>
+		\<height cm="130" /\>
+		\<weight kg="80" /\>
+		\<language abbrev="prt"\>Portugués\</language\>
+		\<TieneLaESO /\>
+		\<weapons\>
+			\<weapon id_weapon="1" /\>
+			\<weapon id_weapon="3" /\>
+			\<weapon id_weapon="7" /\>
+			\<weapon id_weapon="2" /\>
+	\</character\>
 >
->	
 >**Etiquetas:** Parte principal que analiza el doc XML. Dos etiquetas, de apertura y de cierre.
 >Cada Etiqueta debe tener su cierre, se pueden crear etiquetas **EMPTY**
 >**CDATA:** trata el texto como puro
