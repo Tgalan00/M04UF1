@@ -19,15 +19,15 @@ xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 \<characters\> 
 >
 	<character id_character="1">
-	>
+	
 		<name\>Eustaquio\</name>
-		>
+		
 		<surname>Mendoza</surname>
-		>
-		\<race\>Enano\</race\>
-		>
-		\<class\>Artificiero\</class\>
-		>
+		
+		<race\>Enano\</race\>
+		
+		<class>Artificiero</class>
+		
 		\<gender abbrev="N"\>Non-Binary\</gender\>
 		>
 		\<height cm="130" /\>
