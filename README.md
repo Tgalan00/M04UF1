@@ -64,7 +64,7 @@ xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 ## DTD 
 Los _apuntes_ de DTD
 
-> Ejemplo DTD
+Ejemplo DTD
 
 
 

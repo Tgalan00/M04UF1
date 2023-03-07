@@ -1,0 +1,7 @@
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT physical_dmg (#PCDATA)>
+<!ELEMENT physical_df (#PCDATA)>
+<!ELEMENT magical_dmg (#PCDATA)>
+<!ELEMENT magical_df (#PCDATA)>
+<!ELEMENT level  (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>

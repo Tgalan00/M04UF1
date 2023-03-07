@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE weapons SYSTEM "weapons.dtd">
+<weapons>
+	<weapon>
+		<name>Bazooka worms</name>
+		<physical_dmg>"20"</physical_df>
+		<physical_df>"30"</physical_df>
+		<magical_dmg>"10"<magical_dmg>
+		<magical_df>"20"</magical_df>
+		<level>"2"</level>
+		<cost>"120"</cost>
+	</weapon>
+	<weapon>
+		<name>Mama's chancla</name>
+		<physical_dmg>"99"</physical_df>
+		<physical_df>"99"</physical_df>
+		<magical_dmg>"5"<magical_dmg>
+		<magical_df>"5"</magical_df>
+		<level>"99"</level>
+		<cost>"1000"</cost>
+	</weapon>
+	<weapon>
+		<name>Merce's Puñalote</name>
+		<physical_dmg>"0"</physical_df>
+		<physical_df>"100"</physical_df>
+		<magical_dmg>"100"<magical_dmg>
+		<magical_df>"100"</magical_df>
+		<level>"1"</level>
+		<cost>"1"</cost>
+	</weapon>
+</weapons>
